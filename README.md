@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namrata joshi
 - 👀 I’m Passionate Web Developer
-- 🌱 I’m currently learning react, node.js
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate with having same passion
 - 📫 How to reach me namivjoshi@gmail.com
 
